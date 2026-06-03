@@ -1,0 +1,10 @@
+locations = ['China', 'Italy', 'New Zealand', 'Germany', 'Spain']
+print(sorted(locations))
+print(sorted(locations, reverse = True))
+print(locations)
+locations.reverse()
+print(locations)
+locations.sort()
+print(locations)
+locations.sort(reverse=True)
+print(locations)
