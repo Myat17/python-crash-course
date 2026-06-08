@@ -4,4 +4,5 @@
 def favourite_book(title):
     print(f"One of my favorite books is {title.title()}.")
 
-favourite_book("atomic habit")
+book = input("Enter your favourite book: ")
+favourite_book(book)
