@@ -43,13 +43,13 @@ class Admin(User):
         super().__init__(first_name, last_name, age, position)
         self.privileges = Privileges(privileges)
 
-admin = Admin(
-    "Bob", 
-    "Carter", 
-    54, 
-    "Admin",
-    ["can add post", "can delete post", "can ban user", "can check users' information"]
-    )
-admin.describe_user()
-admin.greet_user()
-admin.privileges.show_privileges()
+# admin = Admin(
+#     "Bob", 
+#     "Carter", 
+#     54, 
+#     "Admin",
+#     ["can add post", "can delete post", "can ban user", "can check users' information"]
+#     )
+# admin.describe_user()
+# admin.greet_user()
+# admin.privileges.show_privileges()
