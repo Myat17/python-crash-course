@@ -1,4 +1,4 @@
-collerctions module - Container data types
+collections module - Container data types
     ChainMap - Search Multiple Dictionaries
     Counter - Count Hashable objects
     defaultdict - Missing keys return a default value
