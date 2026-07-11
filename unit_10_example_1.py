@@ -15,6 +15,14 @@ with open('pi_digits.txt') as file_object:
     print(contents.rstrip())
 
 # open file from different file path
+# this only works when text_files is located inside the same folder with the .py file
 with open('text_files/welcome.txt') as file_object2:
-    new_contents = file_object2.read()
-    print(new_contents)
+    new_content_1 = file_object2.read()
+    print(new_content_1)
+
+# Try to open file from any location on the computer
+# Try to use "/" in Windows in file paths if using "\" shows an error
+file_path = 'C:/Users/MSI/Downloads/python.txt'
+with open(file_path) as file_object3:
+    new_content_2 = file_object3.read()
+    print(new_content_2)
