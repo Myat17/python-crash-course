@@ -1,0 +1,10 @@
+I have learned Python for around two months.
+Chapter two is about variables and data types.
+Chapter three is about lists.
+Chapter four is about working with lists.
+Chapter five is about if statements.
+Chapter six is about dictionaries.
+Chapter seven is about user input and while loops.
+Chapter eight is about function.
+Chapter nine is about classes.
+Current chapter is ten which is about files and exceptions.
