@@ -42,17 +42,17 @@ Each chapter contains:
 
 ## Progress
 
-- [x] Chapter 1
-- [x] Chapter 2
-- [x] Chapter 3
-- [x] Chapter 4
-- [x] Chapter 5
-- [x] Chapter 6
-- [x] Chapter 7
-- [x] Chapter 8
-- [x] Chapter 9
-- [ ] Chapter 10
-- [ ] Chapter 11
+- [x] Unit 1
+- [x] Unit 2
+- [x] Unit 3
+- [x] Unit 4
+- [x] Unit 5
+- [x] Unit 6
+- [x] Unit 7
+- [x] Unit 8
+- [x] Unit 9
+- [x] Unit 10
+- [ ] Unit 11
 - [ ] Projects
 
 ## Development Environment
